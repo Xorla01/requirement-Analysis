@@ -76,7 +76,7 @@ Define **how the system performs** its functions. These focus on system attribut
 
 **Booking System Use Case Diagram:**  
 
-![Use Case Diagram](./ralx-booking-uc.png)  
+![Use Case Diagram](./assets/alx-booking-uc.png) 
 
 ---
 
@@ -91,7 +91,3 @@ Acceptance Criteria define the **conditions a software feature must meet** to be
 - The system must **send a confirmation email** after successful payment.  
 - Payment must be **processed securely** through a trusted gateway.  
 
----
-
-## Summary  
-This repository provides a structured breakdown of **Requirement Analysis** with practical examples in the context of a **hotel booking management system**. It includes theoretical explanations, diagrams, and real-world use cases that highlight the importance of this critical SDLC phase.  
